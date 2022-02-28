@@ -1,5 +1,5 @@
 ## Olá! Eu sou o João Victor tenho 13 anos e estou estudando python!!! 
-##        e pretendo postar alguns do meus progetos aqui!
+##        É pretendo postar alguns do meus progetos aqui!
 
 <div align="center">
   <a href="https://github.com/JoaoVictorPe">
