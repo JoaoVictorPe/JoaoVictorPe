@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Victor tenho 13 anos e estou estudando python!!! 
+## Olá! Eu sou o João Victor tenho 15 anos e estou estudando python!!! 
 ##        É pretendo postar alguns do meus progetos aqui!
 
 <div align="center">
