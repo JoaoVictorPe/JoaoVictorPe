@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Victor tenho 16 anos e estou estudando fazendo curso profissionalizante de desenvolvimento de sistemas.
+## Olá! Eu sou o João Victor tenho 17 anos e estou fazendo curso profissionalizante de desenvolvimento de sistemas.
 ##        É pretendo postar alguns do meus progetos aqui!
 
 <div align="center">
